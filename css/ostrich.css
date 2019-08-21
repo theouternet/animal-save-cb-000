@@ -13,6 +13,5 @@ html {
 @media only screen and (max-width: 700) {
   #ostrich {
   top: 400px;
-  height: auto;
   }
 }
