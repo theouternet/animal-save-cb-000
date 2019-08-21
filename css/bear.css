@@ -13,6 +13,6 @@ html {
 @media only screen and (min-width: 1196px) {
   .wrapper {
     width: 800px;
-    float: right;
+    float: left;
   }
 }
